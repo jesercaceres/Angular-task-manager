@@ -1,0 +1,15 @@
+.container {
+    margin-top: 20px;
+  }
+  
+  .nav-link {
+    margin-bottom: 10px;
+  }
+  
+  .list-group-item {
+    font-size: 1.2rem;
+  }
+  
+  .btn {
+    font-size: 0.9rem;
+  }
